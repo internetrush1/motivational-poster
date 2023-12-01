@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.daenerysPicture{
+    border: 5px solid white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+}
+#subtitle{
+    color: white; 
+    text-align: center;
+}
+
